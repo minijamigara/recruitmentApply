@@ -14,13 +14,13 @@ The XML files in this repository are publicly accessible via GitHub Pages. Below
 
 | File Name      | URL                                                                 |
 |----------------|---------------------------------------------------------------------|
-| `client1.xml`  | [View client1.xml](https://minijamigara.github.io/vacancy-publish/client1.xml) |
+| `client1.xml`  | [View client1.xml](https://minijamigara.github.io/recruitmentApply/client1.xml) |
 
 ## How to Use
 
 1. **Access the XML File**:
    - Open the file URL in a web browser to view the XML content.
-   - Example: [https://minijamigara.github.io/vacancy-publish/client1.xml](https://minijamigara.github.io/recruitmentApply/client1.xml)
+   - Example: [https://minijamigara.github.io/recruitmentApply/client1.xml](https://minijamigara.github.io/recruitmentApply/client1.xml)
 
 2. **Test with LinkedIn Aggregator**:
    - Use the XML file URL in your Aggregator setup to simulate job vacancy data.
@@ -46,7 +46,7 @@ To ensure the XML files are hosted correctly via GitHub Pages:
      ```
    - For example:
      ```
-     https://minijamigara.github.io/vacancy-publish/client1.xml
+     https://minijamigara.github.io/recruitmentApply/client1.xml
      ```
 
 ## Adding More XML Files
